@@ -1,2 +1,1 @@
-micabalo_it13b_avtivities.Micabalo_IT13B_avtivities
 Prelim.Lab_act1_Arithmetics
